@@ -13,10 +13,19 @@ I found alot of videos on doing this process. This made it easier for me to get 
 ### Struggles
 At first I had a hard time finding a project idea.
 I had to watch alot of videos and see a lot of websites.
+Finding the right screws was troublesome.
+I had to use tape instead of screws for some parts.
 
 ### Didn't expect
 I did not expect to find the parts I needed in the class room.
 I expected to get stuck at the wiring portion of this project but I got to the end to get this car to move.
+
+### Materials
+-Arduino/ makeblock orion
+-Battery source
+-Set of wheels with motors
+-Wires that attach the motors to the Arduino/ makeblock orion
+-Makeblock app to add code
 
 
 ### Steps
